@@ -97,7 +97,7 @@ db.once('open', function() {
   //db.collections['users'].remove();
   var user1 = {
     userName: 'Gandalf',
-    password: 'DeezNuts',
+    password: 'Deez',
     family:[{
       firstName:"frodo",
       lastName:"baggins",
